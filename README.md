@@ -29,7 +29,7 @@ For more information about the [MIDA](https://mida-project.github.io/) project j
 
 [Francisco Maria Calisto](http://franciscocalisto.me/) ([FMCalisto](https://github.com/FMCalisto))
 
-[Hugo Lencastre](http://franciscocalisto.me/) ([FMCalisto](https://github.com/FMCalisto))
+[Hugo Lencastre](https://www.linkedin.com/in/hugo-lencastre-745b0986) ([HugoLencastre](https://github.com/HugoLencastre))
 
 [Nuno Nunes](https://fenix.tecnico.ulisboa.pt/homepage/ist132720)
 
