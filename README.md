@@ -11,13 +11,15 @@ This repository comes with the set of important information for the poster prese
 We kindly ask scientific works and studies that make use of the source code to cite it in their associated publications. Similarly, we ask open-source and closed-source works that make use of the source code to warn us about this use. You can cite our work using the following BibTeX entry:
 
 ```
-@misc{,
-  author = {},
-  title  = {},
-  month  = {},
-  year   = {},
-  doi    = {},
-  url    = {}
+@conference{calisto2019tbccdss,
+  doi = {10.13140/rg.2.2.25718.65606},
+  url = {http://rgdoi.net/10.13140/RG.2.2.25718.65606},
+  author = {Calisto,  Francisco Maria and Lencastre,  Hugo and Nunes,  Nuno Jardim and Nascimento,  Jacinto C.},
+  language = {en},
+  title = {BreastScreening: Towards Breast Cancer Clinical Decision Support Systems},
+  year = {2019},
+  publisher = {National Science Summit},
+  organization = {Instituto Superior T\'{e}cnico}
 }
 ```
 
